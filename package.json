@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "json-server database.json"
+  },
+
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.42"
+  }
+}
